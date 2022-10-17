@@ -1,0 +1,22 @@
+.box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 50px;
+  margin-left: 20%;
+}
+
+.box input {
+  margin-left: 20px;
+}
+
+.button {
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 43%;
+}
+
+.button button {
+  border: none;
+}
+/*# sourceMappingURL=style.css.map */
